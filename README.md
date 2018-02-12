@@ -1,5 +1,5 @@
 # CheckerboardProject
-# Checkers Model
+## Checkers Model
 The ultimate goal is to create a checkers game. This document is an outline for an idea to develop this game in Java.
 
 ### Checkerboard Class
